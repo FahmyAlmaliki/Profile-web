@@ -131,7 +131,7 @@ const Index = () => {
         <div className="text-center">
           <div className="flex items-center justify-center gap-2 text-gray-400 text-sm">
             <Zap className="w-4 h-4 text-yellow-400 animate-pulse" />
-            <span>Thans for Visiting</span>
+            <span>Thanks for Visiting</span>
             <Zap className="w-4 h-4 text-blue-400 animate-pulse delay-300" />
           </div>
         </div>
